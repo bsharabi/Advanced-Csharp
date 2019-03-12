@@ -1,0 +1,5 @@
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\03_Dictionary of objects\03_Dictionary of objects\bin\Debug\03_Dictionary of objects.exe.config
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\03_Dictionary of objects\03_Dictionary of objects\bin\Debug\03_Dictionary of objects.exe
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\03_Dictionary of objects\03_Dictionary of objects\bin\Debug\03_Dictionary of objects.pdb
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\03_Dictionary of objects\03_Dictionary of objects\obj\Debug\03_Dictionary of objects.exe
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\03_Dictionary of objects\03_Dictionary of objects\obj\Debug\03_Dictionary of objects.pdb

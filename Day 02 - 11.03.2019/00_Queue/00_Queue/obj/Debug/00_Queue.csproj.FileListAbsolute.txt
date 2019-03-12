@@ -1,0 +1,6 @@
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\00_Queue\00_Queue\bin\Debug\00_Queue.exe.config
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\00_Queue\00_Queue\bin\Debug\00_Queue.exe
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\00_Queue\00_Queue\bin\Debug\00_Queue.pdb
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\00_Queue\00_Queue\obj\Debug\00_Queue.csprojResolveAssemblyReference.cache
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\00_Queue\00_Queue\obj\Debug\00_Queue.exe
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\00_Queue\00_Queue\obj\Debug\00_Queue.pdb

@@ -1,0 +1,11 @@
+E:\Barak Computer\Studies\Studies\Year B\Semester B\CSharp\day 01 - 04.03.19\First_advencecharp\First_advencecharp\bin\Debug\netcoreapp2.1\First_advencecharp.deps.json
+E:\Barak Computer\Studies\Studies\Year B\Semester B\CSharp\day 01 - 04.03.19\First_advencecharp\First_advencecharp\bin\Debug\netcoreapp2.1\First_advencecharp.runtimeconfig.json
+E:\Barak Computer\Studies\Studies\Year B\Semester B\CSharp\day 01 - 04.03.19\First_advencecharp\First_advencecharp\bin\Debug\netcoreapp2.1\First_advencecharp.runtimeconfig.dev.json
+E:\Barak Computer\Studies\Studies\Year B\Semester B\CSharp\day 01 - 04.03.19\First_advencecharp\First_advencecharp\bin\Debug\netcoreapp2.1\First_advencecharp.dll
+E:\Barak Computer\Studies\Studies\Year B\Semester B\CSharp\day 01 - 04.03.19\First_advencecharp\First_advencecharp\bin\Debug\netcoreapp2.1\First_advencecharp.pdb
+E:\Barak Computer\Studies\Studies\Year B\Semester B\CSharp\day 01 - 04.03.19\First_advencecharp\First_advencecharp\obj\Debug\netcoreapp2.1\First_advencecharp.csprojAssemblyReference.cache
+E:\Barak Computer\Studies\Studies\Year B\Semester B\CSharp\day 01 - 04.03.19\First_advencecharp\First_advencecharp\obj\Debug\netcoreapp2.1\First_advencecharp.csproj.CoreCompileInputs.cache
+E:\Barak Computer\Studies\Studies\Year B\Semester B\CSharp\day 01 - 04.03.19\First_advencecharp\First_advencecharp\obj\Debug\netcoreapp2.1\First_advencecharp.AssemblyInfoInputs.cache
+E:\Barak Computer\Studies\Studies\Year B\Semester B\CSharp\day 01 - 04.03.19\First_advencecharp\First_advencecharp\obj\Debug\netcoreapp2.1\First_advencecharp.AssemblyInfo.cs
+E:\Barak Computer\Studies\Studies\Year B\Semester B\CSharp\day 01 - 04.03.19\First_advencecharp\First_advencecharp\obj\Debug\netcoreapp2.1\First_advencecharp.dll
+E:\Barak Computer\Studies\Studies\Year B\Semester B\CSharp\day 01 - 04.03.19\First_advencecharp\First_advencecharp\obj\Debug\netcoreapp2.1\First_advencecharp.pdb

@@ -1,0 +1,5 @@
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\02_Dict\02_Dict\bin\Debug\02_Dict.exe.config
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\02_Dict\02_Dict\bin\Debug\02_Dict.exe
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\02_Dict\02_Dict\bin\Debug\02_Dict.pdb
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\02_Dict\02_Dict\obj\Debug\02_Dict.exe
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\02_Dict\02_Dict\obj\Debug\02_Dict.pdb

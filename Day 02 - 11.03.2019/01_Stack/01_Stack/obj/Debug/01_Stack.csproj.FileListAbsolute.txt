@@ -1,0 +1,5 @@
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\01_Stack\01_Stack\bin\Debug\01_Stack.exe.config
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\01_Stack\01_Stack\bin\Debug\01_Stack.exe
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\01_Stack\01_Stack\bin\Debug\01_Stack.pdb
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\01_Stack\01_Stack\obj\Debug\01_Stack.exe
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\01_Stack\01_Stack\obj\Debug\01_Stack.pdb

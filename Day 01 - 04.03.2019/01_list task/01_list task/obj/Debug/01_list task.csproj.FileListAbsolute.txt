@@ -1,0 +1,6 @@
+C:\Users\anaka\Desktop\Day 01 - 04.03.2019\01_list task\01_list task\bin\Debug\01_list task.exe.config
+C:\Users\anaka\Desktop\Day 01 - 04.03.2019\01_list task\01_list task\bin\Debug\01_list task.exe
+C:\Users\anaka\Desktop\Day 01 - 04.03.2019\01_list task\01_list task\bin\Debug\01_list task.pdb
+C:\Users\anaka\Desktop\Day 01 - 04.03.2019\01_list task\01_list task\obj\Debug\01_list task.csprojResolveAssemblyReference.cache
+C:\Users\anaka\Desktop\Day 01 - 04.03.2019\01_list task\01_list task\obj\Debug\01_list task.exe
+C:\Users\anaka\Desktop\Day 01 - 04.03.2019\01_list task\01_list task\obj\Debug\01_list task.pdb

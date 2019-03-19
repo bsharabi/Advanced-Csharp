@@ -1,0 +1,11 @@
+F:\User\Barak\Desktop\Day 03 - 18.03.19\lambda list\lambda list\bin\Debug\netcoreapp2.1\lambda list.deps.json
+F:\User\Barak\Desktop\Day 03 - 18.03.19\lambda list\lambda list\bin\Debug\netcoreapp2.1\lambda list.runtimeconfig.json
+F:\User\Barak\Desktop\Day 03 - 18.03.19\lambda list\lambda list\bin\Debug\netcoreapp2.1\lambda list.runtimeconfig.dev.json
+F:\User\Barak\Desktop\Day 03 - 18.03.19\lambda list\lambda list\bin\Debug\netcoreapp2.1\lambda list.dll
+F:\User\Barak\Desktop\Day 03 - 18.03.19\lambda list\lambda list\bin\Debug\netcoreapp2.1\lambda list.pdb
+F:\User\Barak\Desktop\Day 03 - 18.03.19\lambda list\lambda list\obj\Debug\netcoreapp2.1\lambda list.csprojAssemblyReference.cache
+F:\User\Barak\Desktop\Day 03 - 18.03.19\lambda list\lambda list\obj\Debug\netcoreapp2.1\lambda list.csproj.CoreCompileInputs.cache
+F:\User\Barak\Desktop\Day 03 - 18.03.19\lambda list\lambda list\obj\Debug\netcoreapp2.1\lambda list.AssemblyInfoInputs.cache
+F:\User\Barak\Desktop\Day 03 - 18.03.19\lambda list\lambda list\obj\Debug\netcoreapp2.1\lambda list.AssemblyInfo.cs
+F:\User\Barak\Desktop\Day 03 - 18.03.19\lambda list\lambda list\obj\Debug\netcoreapp2.1\lambda list.dll
+F:\User\Barak\Desktop\Day 03 - 18.03.19\lambda list\lambda list\obj\Debug\netcoreapp2.1\lambda list.pdb

@@ -1,0 +1,5 @@
+C:\Users\anaka\Desktop\Day 03 - 18.03.2019\02_var VS dynamic\02_var VS dynamic\bin\Debug\02_var VS dynamic.exe.config
+C:\Users\anaka\Desktop\Day 03 - 18.03.2019\02_var VS dynamic\02_var VS dynamic\bin\Debug\02_var VS dynamic.exe
+C:\Users\anaka\Desktop\Day 03 - 18.03.2019\02_var VS dynamic\02_var VS dynamic\bin\Debug\02_var VS dynamic.pdb
+C:\Users\anaka\Desktop\Day 03 - 18.03.2019\02_var VS dynamic\02_var VS dynamic\obj\Debug\02_var VS dynamic.exe
+C:\Users\anaka\Desktop\Day 03 - 18.03.2019\02_var VS dynamic\02_var VS dynamic\obj\Debug\02_var VS dynamic.pdb

@@ -1,0 +1,6 @@
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\04_class task\result\result\bin\Debug\result.exe.config
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\04_class task\result\result\bin\Debug\result.exe
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\04_class task\result\result\bin\Debug\result.pdb
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\04_class task\result\result\obj\Debug\result.csprojResolveAssemblyReference.cache
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\04_class task\result\result\obj\Debug\result.exe
+C:\Users\anaka\Desktop\Day 02 - 11.03.2019\04_class task\result\result\obj\Debug\result.pdb

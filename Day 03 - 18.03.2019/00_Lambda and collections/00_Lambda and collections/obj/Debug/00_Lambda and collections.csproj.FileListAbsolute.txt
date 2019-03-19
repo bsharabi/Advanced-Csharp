@@ -1,0 +1,6 @@
+C:\Users\anaka\Desktop\Day 03 - 18.03.2019\00_Lambda and collections\00_Lambda and collections\bin\Debug\00_Lambda and collections.exe.config
+C:\Users\anaka\Desktop\Day 03 - 18.03.2019\00_Lambda and collections\00_Lambda and collections\bin\Debug\00_Lambda and collections.exe
+C:\Users\anaka\Desktop\Day 03 - 18.03.2019\00_Lambda and collections\00_Lambda and collections\bin\Debug\00_Lambda and collections.pdb
+C:\Users\anaka\Desktop\Day 03 - 18.03.2019\00_Lambda and collections\00_Lambda and collections\obj\Debug\00_Lambda and collections.csprojResolveAssemblyReference.cache
+C:\Users\anaka\Desktop\Day 03 - 18.03.2019\00_Lambda and collections\00_Lambda and collections\obj\Debug\00_Lambda and collections.exe
+C:\Users\anaka\Desktop\Day 03 - 18.03.2019\00_Lambda and collections\00_Lambda and collections\obj\Debug\00_Lambda and collections.pdb

@@ -1,0 +1,6 @@
+C:\Users\anaka\Desktop\Day 03 - 18.03.2019\01_sort list of student\01_sort list of student\bin\Debug\01_sort list of student.exe.config
+C:\Users\anaka\Desktop\Day 03 - 18.03.2019\01_sort list of student\01_sort list of student\bin\Debug\01_sort list of student.exe
+C:\Users\anaka\Desktop\Day 03 - 18.03.2019\01_sort list of student\01_sort list of student\bin\Debug\01_sort list of student.pdb
+C:\Users\anaka\Desktop\Day 03 - 18.03.2019\01_sort list of student\01_sort list of student\obj\Debug\01_sort list of student.csprojResolveAssemblyReference.cache
+C:\Users\anaka\Desktop\Day 03 - 18.03.2019\01_sort list of student\01_sort list of student\obj\Debug\01_sort list of student.exe
+C:\Users\anaka\Desktop\Day 03 - 18.03.2019\01_sort list of student\01_sort list of student\obj\Debug\01_sort list of student.pdb

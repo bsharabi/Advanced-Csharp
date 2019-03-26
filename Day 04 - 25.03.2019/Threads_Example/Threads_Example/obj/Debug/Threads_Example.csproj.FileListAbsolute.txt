@@ -1,0 +1,7 @@
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 04 - 25.03.2019\Threads_Example\Threads_Example\bin\Debug\Threads_Example.exe.config
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 04 - 25.03.2019\Threads_Example\Threads_Example\bin\Debug\Threads_Example.exe
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 04 - 25.03.2019\Threads_Example\Threads_Example\bin\Debug\Threads_Example.pdb
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 04 - 25.03.2019\Threads_Example\Threads_Example\obj\Debug\Threads_Example.csprojAssemblyReference.cache
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 04 - 25.03.2019\Threads_Example\Threads_Example\obj\Debug\Threads_Example.csproj.CoreCompileInputs.cache
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 04 - 25.03.2019\Threads_Example\Threads_Example\obj\Debug\Threads_Example.exe
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 04 - 25.03.2019\Threads_Example\Threads_Example\obj\Debug\Threads_Example.pdb

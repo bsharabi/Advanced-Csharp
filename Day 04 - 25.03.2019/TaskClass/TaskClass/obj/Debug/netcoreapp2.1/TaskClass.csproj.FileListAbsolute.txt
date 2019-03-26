@@ -1,0 +1,11 @@
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 04 - 25.03.2019\TaskClass\TaskClass\bin\Debug\netcoreapp2.1\TaskClass.deps.json
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 04 - 25.03.2019\TaskClass\TaskClass\bin\Debug\netcoreapp2.1\TaskClass.runtimeconfig.json
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 04 - 25.03.2019\TaskClass\TaskClass\bin\Debug\netcoreapp2.1\TaskClass.runtimeconfig.dev.json
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 04 - 25.03.2019\TaskClass\TaskClass\bin\Debug\netcoreapp2.1\TaskClass.dll
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 04 - 25.03.2019\TaskClass\TaskClass\bin\Debug\netcoreapp2.1\TaskClass.pdb
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 04 - 25.03.2019\TaskClass\TaskClass\obj\Debug\netcoreapp2.1\TaskClass.csprojAssemblyReference.cache
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 04 - 25.03.2019\TaskClass\TaskClass\obj\Debug\netcoreapp2.1\TaskClass.csproj.CoreCompileInputs.cache
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 04 - 25.03.2019\TaskClass\TaskClass\obj\Debug\netcoreapp2.1\TaskClass.AssemblyInfoInputs.cache
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 04 - 25.03.2019\TaskClass\TaskClass\obj\Debug\netcoreapp2.1\TaskClass.AssemblyInfo.cs
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 04 - 25.03.2019\TaskClass\TaskClass\obj\Debug\netcoreapp2.1\TaskClass.dll
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 04 - 25.03.2019\TaskClass\TaskClass\obj\Debug\netcoreapp2.1\TaskClass.pdb

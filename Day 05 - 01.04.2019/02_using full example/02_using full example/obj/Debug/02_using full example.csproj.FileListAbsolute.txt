@@ -1,0 +1,6 @@
+C:\Users\anaka\Desktop\Day 05 - 01.04.2019\02_using full example\02_using full example\bin\Debug\02_using full example.exe.config
+C:\Users\anaka\Desktop\Day 05 - 01.04.2019\02_using full example\02_using full example\bin\Debug\02_using full example.exe
+C:\Users\anaka\Desktop\Day 05 - 01.04.2019\02_using full example\02_using full example\bin\Debug\02_using full example.pdb
+C:\Users\anaka\Desktop\Day 05 - 01.04.2019\02_using full example\02_using full example\obj\Debug\02_using full example.csprojResolveAssemblyReference.cache
+C:\Users\anaka\Desktop\Day 05 - 01.04.2019\02_using full example\02_using full example\obj\Debug\02_using full example.exe
+C:\Users\anaka\Desktop\Day 05 - 01.04.2019\02_using full example\02_using full example\obj\Debug\02_using full example.pdb

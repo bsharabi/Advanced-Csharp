@@ -51,5 +51,3 @@
   - [02_using full example](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2005%20-%2001.04.2019/02_using%20full%20example)
     - [02_using full example](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2005%20-%2001.04.2019/02_using%20full%20example/02_using%20full%20example)
   - [03_crude executing](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2005%20-%2001.04.2019/03_crude%20executing)
-## noupload
-***

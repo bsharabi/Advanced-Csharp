@@ -43,6 +43,7 @@
     - [TaskClass](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2004%20-%2025.03.2019/TaskClass/TaskClass)
   - [Threads_Example](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2004%20-%2025.03.2019/Threads_Example)
     - [Threads_Example](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2004%20-%2025.03.2019/Threads_Example/Threads_Example)
+<<<<<<< HEAD
 ## Day 05 - 01.04.2019
 ***
   - [00_connected model](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2005%20-%2001.04.2019/00_connected%20model)
@@ -51,3 +52,5 @@
   - [02_using full example](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2005%20-%2001.04.2019/02_using%20full%20example)
     - [02_using full example](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2005%20-%2001.04.2019/02_using%20full%20example/02_using%20full%20example)
   - [03_crude executing](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2005%20-%2001.04.2019/03_crude%20executing)
+=======
+>>>>>>> 034afd1806b666b3c0d22df0a55804a619f6bfb2

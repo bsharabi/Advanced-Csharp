@@ -1,0 +1,14 @@
+C:\Users\anaka\Desktop\Day 05 - 01.04.2019\00_connected model\00_connected model\bin\Debug\00_connected model.exe.config
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 05 - 01.04.2019\00_connected model\00_connected model\bin\Debug\00_connected model.exe.config
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 05 - 01.04.2019\00_connected model\00_connected model\bin\Debug\00_connected model.exe
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 05 - 01.04.2019\00_connected model\00_connected model\bin\Debug\00_connected model.pdb
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 05 - 01.04.2019\00_connected model\00_connected model\obj\Debug\00_connected model.csprojAssemblyReference.cache
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 05 - 01.04.2019\00_connected model\00_connected model\obj\Debug\00_connected model.csproj.CoreCompileInputs.cache
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 05 - 01.04.2019\00_connected model\00_connected model\obj\Debug\00_connected model.exe
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 05 - 01.04.2019\00_connected model\00_connected model\obj\Debug\00_connected model.pdb
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 06 - 08.04.2019\ClassTask\00_connected model\bin\Debug\00_connected model.exe.config
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 06 - 08.04.2019\ClassTask\00_connected model\bin\Debug\00_connected model.exe
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 06 - 08.04.2019\ClassTask\00_connected model\bin\Debug\00_connected model.pdb
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 06 - 08.04.2019\ClassTask\00_connected model\obj\Debug\00_connected model.csproj.CoreCompileInputs.cache
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 06 - 08.04.2019\ClassTask\00_connected model\obj\Debug\00_connected model.exe
+E:\Barak Computer\Studies\Studies\Year B\Semester B\Advanced-CSharp\Day 06 - 08.04.2019\ClassTask\00_connected model\obj\Debug\00_connected model.pdb

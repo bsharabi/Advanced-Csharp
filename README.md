@@ -51,3 +51,13 @@
   - [02_using full example](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2005%20-%2001.04.2019/02_using%20full%20example)
     - [02_using full example](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2005%20-%2001.04.2019/02_using%20full%20example/02_using%20full%20example)
   - [03_crude executing](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2005%20-%2001.04.2019/03_crude%20executing)
+## Day 06 - 08.04.2019
+***
+  - [Book app - open connection](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2006%20-%2008.04.2019/Book%20app%20-%20open%20connection)
+    - [BLL](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2006%20-%2008.04.2019/Book%20app%20-%20open%20connection/BLL)
+    - [BOL](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2006%20-%2008.04.2019/Book%20app%20-%20open%20connection/BOL)
+    - [DAL](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2006%20-%2008.04.2019/Book%20app%20-%20open%20connection/DAL)
+    - [UIL](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2006%20-%2008.04.2019/Book%20app%20-%20open%20connection/UIL)
+  - [ClassTask](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2006%20-%2008.04.2019/ClassTask)
+    - [00_connected model](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2006%20-%2008.04.2019/ClassTask/00_connected%20model)
+    - [BO](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2006%20-%2008.04.2019/ClassTask/BO)

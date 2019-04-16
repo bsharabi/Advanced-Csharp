@@ -1,0 +1,10 @@
+C:\Users\anaka\Desktop\Day - 15.04.2019\00_ef\00_ef\bin\Debug\00_ef.exe.config
+C:\Users\anaka\Desktop\Day - 15.04.2019\00_ef\00_ef\bin\Debug\00_ef.exe
+C:\Users\anaka\Desktop\Day - 15.04.2019\00_ef\00_ef\bin\Debug\00_ef.pdb
+C:\Users\anaka\Desktop\Day - 15.04.2019\00_ef\00_ef\bin\Debug\EntityFramework.dll
+C:\Users\anaka\Desktop\Day - 15.04.2019\00_ef\00_ef\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anaka\Desktop\Day - 15.04.2019\00_ef\00_ef\bin\Debug\EntityFramework.xml
+C:\Users\anaka\Desktop\Day - 15.04.2019\00_ef\00_ef\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anaka\Desktop\Day - 15.04.2019\00_ef\00_ef\obj\Debug\00_ef.csprojResolveAssemblyReference.cache
+C:\Users\anaka\Desktop\Day - 15.04.2019\00_ef\00_ef\obj\Debug\00_ef.exe
+C:\Users\anaka\Desktop\Day - 15.04.2019\00_ef\00_ef\obj\Debug\00_ef.pdb

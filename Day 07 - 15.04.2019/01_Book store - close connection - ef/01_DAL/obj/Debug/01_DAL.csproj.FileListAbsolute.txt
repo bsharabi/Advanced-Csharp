@@ -1,0 +1,10 @@
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\01_DAL\bin\Debug\01_DAL.dll.config
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\01_DAL\bin\Debug\01_DAL.dll
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\01_DAL\bin\Debug\01_DAL.pdb
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\01_DAL\bin\Debug\EntityFramework.dll
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\01_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\01_DAL\bin\Debug\EntityFramework.xml
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\01_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\01_DAL\obj\Debug\01_DAL.csprojResolveAssemblyReference.cache
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\01_DAL\obj\Debug\01_DAL.dll
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\01_DAL\obj\Debug\01_DAL.pdb

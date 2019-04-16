@@ -1,0 +1,16 @@
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\04_UIL\bin\Debug\04_UIL.exe.config
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\04_UIL\bin\Debug\04_UIL.exe
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\04_UIL\bin\Debug\04_UIL.pdb
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\04_UIL\bin\Debug\02_BOL.dll
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\04_UIL\bin\Debug\03_BLL.dll
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\04_UIL\bin\Debug\EntityFramework.dll
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\04_UIL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\04_UIL\bin\Debug\01_DAL.dll
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\04_UIL\bin\Debug\02_BOL.pdb
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\04_UIL\bin\Debug\03_BLL.pdb
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\04_UIL\bin\Debug\EntityFramework.xml
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\04_UIL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\04_UIL\bin\Debug\01_DAL.pdb
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\04_UIL\obj\Debug\04_UIL.csprojResolveAssemblyReference.cache
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\04_UIL\obj\Debug\04_UIL.exe
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\04_UIL\obj\Debug\04_UIL.pdb

@@ -1,0 +1,5 @@
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\02_BOL\bin\Debug\02_BOL.dll
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\02_BOL\bin\Debug\02_BOL.pdb
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\02_BOL\obj\Debug\02_BOL.csprojResolveAssemblyReference.cache
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\02_BOL\obj\Debug\02_BOL.dll
+C:\Users\anaka\Desktop\Day - 15.04.2019\01_Book store - close connection - ef\02_BOL\obj\Debug\02_BOL.pdb

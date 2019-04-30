@@ -77,3 +77,13 @@
     - [02_BOL](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2007%20-%2015.04.2019/01_Book%20store%20-%20close%20connection%20-%20ef/02_BOL)
     - [03_BLL](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2007%20-%2015.04.2019/01_Book%20store%20-%20close%20connection%20-%20ef/03_BLL)
     - [04_UIL](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2007%20-%2015.04.2019/01_Book%20store%20-%20close%20connection%20-%20ef/04_UIL)
+## Day 08 - 29.04.2019
+***
+  - [00_basic controller in web api](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2008%20-%2029.04.2019/00_basic%20controller%20in%20web%20api)
+    - [ProductServer](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2008%20-%2029.04.2019/00_basic%20controller%20in%20web%20api/ProductServer)
+      - [ProductServer](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2008%20-%2029.04.2019/00_basic%20controller%20in%20web%20api/ProductServer/ProductServer)
+        - [App_Start](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2008%20-%2029.04.2019/00_basic%20controller%20in%20web%20api/ProductServer/ProductServer/App_Start)
+  - [01_two controllers in one project](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2008%20-%2029.04.2019/01_two%20controllers%20in%20one%20project)
+    - [ProductServer](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2008%20-%2029.04.2019/01_two%20controllers%20in%20one%20project/ProductServer)
+      - [ProductServer](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2008%20-%2029.04.2019/01_two%20controllers%20in%20one%20project/ProductServer/ProductServer)
+        - [App_Start](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2008%20-%2029.04.2019/01_two%20controllers%20in%20one%20project/ProductServer/ProductServer/App_Start)

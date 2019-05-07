@@ -87,3 +87,16 @@
     - [ProductServer](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2008%20-%2029.04.2019/01_two%20controllers%20in%20one%20project/ProductServer)
       - [ProductServer](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2008%20-%2029.04.2019/01_two%20controllers%20in%20one%20project/ProductServer/ProductServer)
         - [App_Start](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2008%20-%2029.04.2019/01_two%20controllers%20in%20one%20project/ProductServer/ProductServer/App_Start)
+## Day 09 - 07.05.2019
+***
+  - [00_return IHttpActionResult](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2009%20-%2007.05.2019/00_return%20IHttpActionResult)
+    - [00_Return status code](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2009%20-%2007.05.2019/00_return%20IHttpActionResult/00_Return%20status%20code)
+      - [00_Return status code](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2009%20-%2007.05.2019/00_return%20IHttpActionResult/00_Return%20status%20code/00_Return%20status%20code)
+        - [App_Start](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2009%20-%2007.05.2019/00_return%20IHttpActionResult/00_Return%20status%20code/00_Return%20status%20code/App_Start)
+        - [Controllers](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2009%20-%2007.05.2019/00_return%20IHttpActionResult/00_Return%20status%20code/00_Return%20status%20code/Controllers)
+        - [Models](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2009%20-%2007.05.2019/00_return%20IHttpActionResult/00_Return%20status%20code/00_Return%20status%20code/Models)
+  - [01_web api crud + web client](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2009%20-%2007.05.2019/01_web%20api%20crud%20+%20web%20client)
+    - [00_Return status code](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2009%20-%2007.05.2019/01_web%20api%20crud%20+%20web%20client/00_Return%20status%20code)
+      - [App_Start](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2009%20-%2007.05.2019/01_web%20api%20crud%20+%20web%20client/00_Return%20status%20code/App_Start)
+      - [Controllers](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2009%20-%2007.05.2019/01_web%20api%20crud%20+%20web%20client/00_Return%20status%20code/Controllers)
+      - [Models](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2009%20-%2007.05.2019/01_web%20api%20crud%20+%20web%20client/00_Return%20status%20code/Models)

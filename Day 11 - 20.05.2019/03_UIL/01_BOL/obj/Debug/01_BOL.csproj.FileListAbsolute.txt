@@ -1,0 +1,5 @@
+C:\Users\anaka\Desktop\Day 11 - 20.05.2019\03_UIL\01_BOL\bin\Debug\01_BOL.dll
+C:\Users\anaka\Desktop\Day 11 - 20.05.2019\03_UIL\01_BOL\bin\Debug\01_BOL.pdb
+C:\Users\anaka\Desktop\Day 11 - 20.05.2019\03_UIL\01_BOL\obj\Debug\01_BOL.csprojResolveAssemblyReference.cache
+C:\Users\anaka\Desktop\Day 11 - 20.05.2019\03_UIL\01_BOL\obj\Debug\01_BOL.dll
+C:\Users\anaka\Desktop\Day 11 - 20.05.2019\03_UIL\01_BOL\obj\Debug\01_BOL.pdb

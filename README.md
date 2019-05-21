@@ -100,3 +100,19 @@
       - [App_Start](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2009%20-%2007.05.2019/01_web%20api%20crud%20+%20web%20client/00_Return%20status%20code/App_Start)
       - [Controllers](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2009%20-%2007.05.2019/01_web%20api%20crud%20+%20web%20client/00_Return%20status%20code/Controllers)
       - [Models](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2009%20-%2007.05.2019/01_web%20api%20crud%20+%20web%20client/00_Return%20status%20code/Models)
+## Day 10 - 15.05.2019
+***
+  - [01_web api crud + web client](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2010%20-%2015.05.2019/01_web%20api%20crud%20+%20web%20client)
+    - [00_Return status code](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2010%20-%2015.05.2019/01_web%20api%20crud%20+%20web%20client/00_Return%20status%20code)
+      - [App_Start](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2010%20-%2015.05.2019/01_web%20api%20crud%20+%20web%20client/00_Return%20status%20code/App_Start)
+      - [Controllers](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2010%20-%2015.05.2019/01_web%20api%20crud%20+%20web%20client/00_Return%20status%20code/Controllers)
+      - [Models](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2010%20-%2015.05.2019/01_web%20api%20crud%20+%20web%20client/00_Return%20status%20code/Models)
+## Day 11 - 20.05.2019
+***
+  - [03_UIL](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2011%20-%2020.05.2019/03_UIL)
+    - [00_DAL](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2011%20-%2020.05.2019/03_UIL/00_DAL)
+    - [01_BOL](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2011%20-%2020.05.2019/03_UIL/01_BOL)
+    - [02_BLL](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2011%20-%2020.05.2019/03_UIL/02_BLL)
+    - [03_UIL](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2011%20-%2020.05.2019/03_UIL/03_UIL)
+      - [App_Start](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2011%20-%2020.05.2019/03_UIL/03_UIL/App_Start)
+      - [Controllers](https://github.com/bsharabi/Advanced-CSharp/tree/master/Day%2011%20-%2020.05.2019/03_UIL/03_UIL/Controllers)
